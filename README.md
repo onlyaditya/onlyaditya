@@ -2,21 +2,17 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">Passionate Full Stack Web developer</h3>
 
-<div align="left">
+<div align="center">
 
-- 🔭 I’m currently working on **Travelocity Clone**
+ 🔭 I’m currently working on **Travelocity Clone**
 
-- 🌱 I’m currently learning **React, Redux**
+ 🌱 I’m currently learning **MERN stack**
 
-- 👯 Done Collaborative Project **Millap.org Clone**
 
-- 🤝 First Collaborative Project **Ajio.com Clone**
+💬 Ask me about **React-Js, Redux, JavaScript, and Data Structure and Algorithms**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux**
+ 📫 Reach out to me @ **aditya_nj2_003@masai.school**
 
-- 📫 Reach out to me @ **aditya_nj2_003@masai.school**
-
-- ⚡ Fun fact--> **Loves Travelling, cooking and watching Documentaries**
 
 <div>  
 
