@@ -105,14 +105,6 @@ Backend Developer who can design APIs, structure scalable systems, integrate AI 
 
 ---
 
-## 📊 GitHub Stats
-<div align="center"> 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyaditya&show_icons=true&locale=en&layout=compact" alt="onlyaditya" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyaditya&show_icons=true&locale=en" alt="onlyaditya" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlyaditya&" alt="onlyaditya" /></p> 
-</div>
-
----
-
-
 <p align="center">
   <b>Building scalable backend systems and AI-native workflows for practical software products.</b>
 </p>
