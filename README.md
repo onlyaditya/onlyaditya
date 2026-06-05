@@ -104,6 +104,8 @@ Backend Developer who can design APIs, structure scalable systems, integrate AI 
 * 📫 Email: **[onlyaditya001@gmail.com](mailto:onlyaditya001@gmail.com)**
 
 ---
+![](https://streak-stats.demolab.com/?user=onlyaditya&theme=dark&hide_border=false)<br/>
+---
 
 <p align="center">
   <b>Building scalable backend systems and AI-native workflows for practical software products.</b>
