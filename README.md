@@ -99,7 +99,7 @@ Backend Developer who can design APIs, structure scalable systems, integrate AI 
 
 ## 📄 Experience & Projects
 
-* 👨‍💻 Portfolio: https://aditya-portfolio-omega.vercel.app/
+* 👨‍💻 Portfolio: https://www.adityakumartech.com/
 * 📄 Resume: [View Resume](https://drive.google.com/file/d/1jL8I7kNPkzn5cJszqo0fy7YCOWu0qrHr/view?usp=sharing)
 * 📫 Email: **[onlyaditya001@gmail.com](mailto:onlyaditya001@gmail.com)**
 
