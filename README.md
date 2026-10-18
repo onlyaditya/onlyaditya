@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
 <h3 align="center">
-Backend Developer | AI-Enabled Applications | Agentic Workflows | System Design
+Building AI Products | AI-Enabled Applications | Agentic Workflows | System Design
 </h3>
 
 <p align="center">
